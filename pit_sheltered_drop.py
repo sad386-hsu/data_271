@@ -114,7 +114,7 @@ pit_sheltered_drop = [
  'Sheltered ES Homeless Individuals - Different Identity',
  'Sheltered ES Homeless Individuals - Non Binary',
  'Sheltered ES Homeless Individuals - More Than One Gender',
- 'Sheltered TH Homeless Individuals',
+ 'Sheltered TH Homeless',
  'Sheltered TH Homeless Individuals - Woman',
  'Sheltered TH Homeless Individuals - Man',
  'Sheltered TH Homeless Individuals - Transgender',
