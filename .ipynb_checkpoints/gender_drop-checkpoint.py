@@ -1245,3 +1245,5 @@ gender_drop = ['Overall Homeless Unaccompanied Youth (Under 25)',
  'Unsheltered Homeless Individuals - Age 45 to 54',
  'Unsheltered Homeless Individuals - Age 55 to 64',
  'Unsheltered Homeless Individuals - Over 64',]
+
+
